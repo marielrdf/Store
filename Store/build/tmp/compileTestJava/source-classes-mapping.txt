@@ -1,0 +1,4 @@
+web/test/SeleniumComands.java
+ web.test.SeleniumComands
+web/test/StoreTest.java
+ web.test.StoreTest
